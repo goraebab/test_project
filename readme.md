@@ -1,3 +1,10 @@
+#기본정보
+[원본 repository](https://github.com/spring-petclinic/spring-petclinic-rest)
+
+[Swagger-ui](http://localhost:9966/petclinic/swagger-ui.html)
+
+[TestURL](http://localhost:9966/petclinic/api/pets)
+
 # REST version of Spring PetClinic Sample Application (spring-framework-petclinic extend ) [![Build Status](https://travis-ci.org/spring-petclinic/spring-petclinic-rest.png?branch=master)](https://travis-ci.org/spring-petclinic/spring-petclinic-rest/)
 
 This backend version of the Spring Petclinic application only provides a REST API. **There is no UI**.
